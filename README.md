@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+* Computer Science student at UFF - Universidade Federal Fluminense.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carinalanchine&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
