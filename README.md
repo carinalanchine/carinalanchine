@@ -3,7 +3,7 @@
 <a href="https://www.linkedin.com/in/carinalanchine/"><img height="25" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/><a>
 <a href="mailto:carinalanchine@id.uff.br"><img height="25" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-* Computer Science student at Fluminense Federal University.
+* Computer Science student at UFF - Fluminense Federal University.
 
 ## Skills ⚙️
 
@@ -19,11 +19,6 @@
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </div>
-
-<br/>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carinalanchine&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--
 **carinalanchine/carinalanchine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
