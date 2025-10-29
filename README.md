@@ -5,6 +5,7 @@
 
 * Mobile & Backend software engineer.
 * Computer Science student at UFF - Fluminense Federal University.
+* Mobile development intern @ STI-UFF.
 
 ## Skills ⚙️
 
