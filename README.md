@@ -5,7 +5,7 @@
 
 * Fullstack software engineer.
 * Computer Science student at UFF - Fluminense Federal University.
-* Mobile development intern @ STI-UFF.
+* Development intern @ STI-UFF.
 
 ## Skills ⚙️
 
